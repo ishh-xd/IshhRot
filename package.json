@@ -1,6 +1,6 @@
 {
   "name": "ishhrot",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "A brain-melting programming language. NodeJS but modified.",
   "main": "ishhrot/lib/interpreter.js",
   "bin": {
