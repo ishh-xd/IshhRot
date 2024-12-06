@@ -1,0 +1,16 @@
+{
+  "name": "ishhrot",
+  "version": "1.0.0",
+  "description": "A brain-melting programming language. NodeJS but modified.",
+  "main": "ishhrot/lib/interpreter.js",
+  "bin": {
+    "ishhrot": "ishhrot/bin/ishhrot.js"
+  },
+  "scripts": {
+    "start": "node ishhrot/bin/ishhrot.js ishhrot/examples/example.ir"
+  },
+  "keywords": ["ishhrot", "programming-language", "coding", "brainrot"],
+  "author": "Ishh",
+  "license": "MIT",
+  "dependencies": {}
+}
