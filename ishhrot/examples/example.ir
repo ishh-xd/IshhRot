@@ -1,0 +1,18 @@
+# Example Ishhrot Program
+
+let x be 10;
+let y be 20;
+
+function add(a, b) {
+    return a + b;
+}
+
+let result be add(x, y);
+print "The sum is: " + result;
+
+
+if(y > 15) {
+    print "y is greater than 15";
+} else {
+    print "y is 15 or less";
+}
