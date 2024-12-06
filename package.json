@@ -12,5 +12,9 @@
   "keywords": ["ishhrot", "programming-language", "coding", "brainrot"],
   "author": "Ishh",
   "license": "MIT",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/ishh-xd/ishhrot.git"
+}
   "dependencies": {}
 }
